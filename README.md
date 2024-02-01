@@ -1,2 +1,5 @@
-# render-hosting-demo
-Deploying this repository to Render.com for a demo (Week 4 - Winter 2024)
+# Render Hosting Demonstration
+The contents of this repository will be deployed on render.com for a demo.
+
+# Demo
+A link to the demo will be provided soon!
